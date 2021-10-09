@@ -40,5 +40,5 @@ Notes whose status has been manually set to `dropped` or `onHold` won't have its
 
 ## Changelog
 
-- 1.0.0
+- 1.1.1
   - Initial release
