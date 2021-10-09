@@ -38,6 +38,17 @@ A note that has tasks, but all of them are completed, will, obviously, have its 
 
 Notes whose status has been manually set to `dropped` or `onHold` won't have its status updated by the plugin.
 
+### Manual refresh
+
+Notes statuses are set "automagically" when a note is saved.
+
+But, on the first time, you'll need to trigger it manually with one of those two methods : 
+
+ - keyboard shortcut : `CTRL` + `ALT` + `T`
+ - menu : `Menu` > `Plugins` > `opentasks` > `Trigger a manual refresh of the note status`
+
+ This will iterate through all your notes and set the status according to your tasks.
+
 ## Changelog
 
 - 1.1.2
