@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "opentasks",
+          "submenu": [
+            {
+              "label": "Trigger a manual refresh of the note status",
+              "command": "opentasks:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
