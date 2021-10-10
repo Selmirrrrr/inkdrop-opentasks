@@ -1,7 +1,7 @@
 {
   "name": "opentasks",
   "main": "./lib/opentasks",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Automagically sets the status of your notes depending on whether the note has (open) tasks or not.",
   "keywords": [],
   "repository": "https://github.com/selmirrrrr/inkdrop-opentasks",
