@@ -45,11 +45,13 @@ Notes statuses are set "automagically" when a note is saved.
 But, on the first time, you'll need to trigger it manually with one of those two methods : 
 
  - keyboard shortcut : `CTRL` + `ALT` + `T`
- - menu : `Menu` > `Plugins` > `opentasks` > `Trigger a manual refresh of the note status`
+ - menu : `Menu` > `Plugins` > `opentasks` > `Refresh notes status`
 
- This will iterate through all your notes and set the status according to your tasks.
+ This will iterate through all your notes (max 20'000) and set the status according to tasks in it.
 
 ## Changelog
 
-- 1.1.2
-  - Initial release
+### 1.1.3 - Menu improvement
+* Improved menu label for the plugin
+### 1.1.2 - First Release
+* I'm done 😎

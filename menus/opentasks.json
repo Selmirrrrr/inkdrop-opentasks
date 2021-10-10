@@ -7,7 +7,7 @@
           "label": "opentasks",
           "submenu": [
             {
-              "label": "Trigger a manual refresh of the note status",
+              "label": "Refresh notes status",
               "command": "opentasks:toggle"
             }
           ]
